@@ -3,3 +3,14 @@
 하이퍼링크: 안녕하세요
 
 #근데 내가 왜 이걸 적어야 하는지 모르겠다.
+
+그렇지만 적어야한다.
+하지만 내가 왜 이걸 적어ㅑ 하는 걸까... 
+
+
+if(you.brain == Gamestate.stupid){
+	return 0
+}
+else{
+	return programming(your_situation)
+}
