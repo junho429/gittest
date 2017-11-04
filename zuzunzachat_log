@@ -17,3 +17,5 @@ if(you.brain == Gamestate.stupid){
 else{
 	return programming(your_situation)
 }
+
+비주얼 스튜디오 만세!!!!!!!!!!!111
